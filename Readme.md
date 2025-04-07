@@ -85,9 +85,9 @@ Assist users with navigation and obstacle avoidance
 ## Sample Outputs
 
 <p float="left">
-  <img src="1.png" alt="Distance Calculation" width="300"/>
-  <img src="2.png" alt="Testing" width="300"/>
-  <img src="3.png" alt="Custom Door Signs" width="300"/>
+  <img src="1.png" alt="Distance Calculation" width="300" height="500"/>
+  <img src="2.png" alt="Testing" width="300" height="500"/>
+  <img src="3.png" alt="Custom Door Signs" width="300" height="500"/>
 </p>
 
 ## Contributors
