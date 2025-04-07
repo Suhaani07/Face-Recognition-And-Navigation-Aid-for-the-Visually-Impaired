@@ -84,9 +84,11 @@ Assist users with navigation and obstacle avoidance
 
 ## Sample Outputs
 
-![Distance Calculation](1.png)
-![Testing](2.png)
-![Custom Door Signs](3.png)
+<p float="left">
+  <img src="1.png" alt="Distance Calculation" width="300"/>
+  <img src="2.png" alt="Testing" width="300"/>
+  <img src="3.png" alt="Custom Door Signs" width="300"/>
+</p>
 
 ## Contributors
 
