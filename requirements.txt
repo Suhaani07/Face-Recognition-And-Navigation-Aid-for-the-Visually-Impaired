@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+scikit-learn
+deepface
+pyttsx3
+ultralytics
+together
+easyocr
+python-dotenv
