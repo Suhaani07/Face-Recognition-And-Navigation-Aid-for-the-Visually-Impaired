@@ -15,8 +15,6 @@ This project proposes an advanced assistive system designed to enhance independe
 - 📍 **Live Navigation Instructions** powered by Together API using LLaMA 3.2 Vision.
 - 📏 **Distance Measurement** for obstacle avoidance via depth analysis.
 - 🗣️ **Audio Feedback** using pyttsx3 (Text-to-Speech).
-- 🌐 Flask-based web API backend.
-- 🔐 Secure API Key management with `.env`.
 
 ---
 
@@ -41,12 +39,12 @@ This project proposes an advanced assistive system designed to enhance independe
 ```bash
 git clone https://github.com/yourusername/face-recognition-navigation-aid.git
 cd face-recognition-navigation-aid
-
+```
 ### 2.  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Setup Environment Variables
 Create a file named .env in the root directory and add your Together API key and Camera URLs
 
@@ -54,7 +52,7 @@ Create a file named .env in the root directory and add your Together API key and
 TOGETHER_API_KEY=
 CAMERA_1_URL=
 CAMERA_2_URL=
-
+```
 ## 📚 Python Libraries Used
 
 ```txt
@@ -68,7 +66,7 @@ ultralytics
 together
 easyocr
 python-dotenv
-
+```
 ## Usage
 
 1. Clone the repository:
